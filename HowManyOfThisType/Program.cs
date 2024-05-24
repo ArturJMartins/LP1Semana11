@@ -38,8 +38,12 @@ namespace HowManyOfThisType
             // bool  : 3
             // string: 1
             // byte  : 0
+<<<<<<< HEAD
 
             Console.WriteLine("Merci d’utiliser ce programme!");
+=======
+            Console.WriteLine("Obrigado por ter usado este programa!");
+>>>>>>> bdf85bd (Um console adicionado no ramo test)
         }
     }
 }
